@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-image-url.com/your-logo.png](https://github.com/HAMMOUDAmustaphaahmed/CarWize/blob/master/static/favicon/android-chrome-512x512.png)" alt="CarWize Logo" width="200">
+  <img src="https://github.com/HAMMOUDAmustaphaahmed/CarWize/blob/master/static/favicon/android-chrome-512x512.png" alt="CarWize Logo" width="200">
 </div>
 
 # CarWize
